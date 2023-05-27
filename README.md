@@ -27,7 +27,7 @@ Steps to Convert the .py to .exe
 ```bash
 1.pip install pyinstaller
 3.go to your file directory on cmd.
-4. then tybe the  comment "pyinstaller --onefile KeyLogger.py"
+4. then Enter the  comment "pyinstaller --onefile KeyLogger.py"
 5.You’ll notice that few additional files were created at that location.
 To find the executable file, open the dist folder. You’ll then see the executable file.
 ```
